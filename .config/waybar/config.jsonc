@@ -22,7 +22,7 @@
 	//"wireplumber",
         //"backlight",
         "clock",
-        //"battery",
+        "battery",
         "tray"
     ],
     // Modules configuration
