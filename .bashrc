@@ -37,7 +37,7 @@ alias gconf='sudo nvim /etc/default/grub'
 alias gmk='sudo grub-mkconfig -o /boot/grub/grub.cfg'
 alias bashrc='nvim ~/.bashrc'
 alias bashp='nvim ~/.bash_profile'
-alias getty='sudo nvim /etc/systemd/system/getty.target.wants./getty\@tty1.service'
+alias getty='sudo nvim /etc/systemd/system/getty.target.wants/getty\@tty1.service'
 
 # package-managers
 alias pm='sudo pacman'
