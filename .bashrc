@@ -48,7 +48,8 @@ alias pml='sudo pacman Qe'
 alias ys='yay -S'
 alias yr='yay -Rs'
 alias yu='yay -Syu'
-alias yl='pacman -Qm'
+alias yl='pacman -Qm' 
+alias mirror-reset='sudo reflector --country India --latest 5 --age 2 --fastest 5 protocol https --sort rate --save /etc/pacman.d/mirrorlist'
 
 # ricing-conf
 alias dot='cd ~/.dotfiles'
