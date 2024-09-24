@@ -1,0 +1,9 @@
+2024/09/19-21:58:06.675 3d9 Reusing MANIFEST /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/09/19-21:58:06.682 3d9 Recovering log #1273
+2024/09/19-21:58:06.682 3d9 Reusing old log /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/001273.log 
+2024/09/19-22:01:54.879 3da Level-0 table #1277: started
+2024/09/19-22:01:54.889 3da Level-0 table #1277: 59699 bytes OK
+2024/09/19-22:01:54.894 3da Delete type=0 #1273
+2024/09/19-22:12:06.856 3da Level-0 table #1279: started
+2024/09/19-22:12:06.860 3da Level-0 table #1279: 39248 bytes OK
+2024/09/19-22:12:06.865 3da Delete type=0 #1276

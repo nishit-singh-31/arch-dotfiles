@@ -1,0 +1,19 @@
+{
+    "minimizeToTray": "on",
+    "discordBranch": "stable",
+    "splashColor": "rgb(242, 229, 188)",
+    "splashBackground": "rgb(40, 40, 40)",
+    "enableMenu": false,
+    "splashTheming": true,
+    "customTitleBar": false,
+    "staticTitle": true,
+    "spellCheckLanguages": [
+        "en-US",
+        "en"
+    ],
+    "audio": {
+        "workaround": true
+    },
+    "disableMinSize": true,
+    "appBadge": false
+}

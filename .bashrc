@@ -24,6 +24,8 @@ alias pair-major='bluetoothctl connect 1C:6E:4C:92:11:36'
 alias dc-major='bluetoothctl disconnect 1C:6E:4C:92:11:36'
 alias pair-kb='bluetoothctl connect F4:73:35:A8:9C:D3'
 alias dc-kb='bluetoothctl disconnect F4:73:35:A8:9C:D3'
+alias pair-ap='bluetoothctl connect 10:2F:CA:A3:02:5D'
+alias dc-ap='bluetoothctl disconnect 10:2F:CA:A3:02:5D'
 
 # sh-cmd
 alias ls='ls --color=auto'
@@ -31,6 +33,7 @@ alias ll='ls -l'
 alias grep='grep --color=auto'
 alias ff='fastfetch'
 alias mnt='bashmount'
+alias feh='feh --keep-zoom-vp'
 
 # sys-conf
 alias gconf='sudo nvim /etc/default/grub'

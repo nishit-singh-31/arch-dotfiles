@@ -1,0 +1,17 @@
+2024/09/14-08:15:40.150 1c83 Reusing MANIFEST /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/09/14-08:15:40.162 1c83 Recovering log #1267
+2024/09/14-08:15:40.162 1c83 Level-0 table #1270: started
+2024/09/14-08:15:40.165 1c83 Level-0 table #1270: 58491 bytes OK
+2024/09/14-08:15:40.171 1c83 Delete type=0 #1267
+2024/09/14-08:15:40.171 1c84 Compacting 4@0 + 1@1 files
+2024/09/14-08:15:40.176 1c84 Generated table #1272@0: 72 keys, 44976 bytes
+2024/09/14-08:15:40.176 1c84 Compacted 4@0 + 1@1 files => 44976 bytes
+2024/09/14-08:15:40.182 1c84 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/14-08:15:40.182 1c84 Delete type=2 #1261
+2024/09/14-08:15:40.182 1c84 Delete type=2 #1263
+2024/09/14-08:15:40.182 1c84 Delete type=2 #1266
+2024/09/14-08:15:40.182 1c84 Delete type=2 #1268
+2024/09/14-08:15:40.182 1c84 Delete type=2 #1270
+2024/09/14-12:15:51.670 1c84 Level-0 table #1274: started
+2024/09/14-12:15:51.680 1c84 Level-0 table #1274: 58907 bytes OK
+2024/09/14-12:15:51.685 1c84 Delete type=0 #1271
