@@ -64,6 +64,7 @@ alias gtkconf='nvim ~/.config/gtk-3.0/settings.ini'
 
 # nvim
 export EDITOR=nvim
+export RANGER_LOAD_DEFAULT_RC=false
 alias nvconf='nvim ~/.config/nvim/init.lua'
 alias vim='nvim'
 
