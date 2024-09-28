@@ -1,21 +1,14 @@
-2024/09/25-03:27:20.004 283c Reusing MANIFEST /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
-2024/09/25-03:27:20.013 283c Recovering log #1278
-2024/09/25-03:27:20.013 283c Reusing old log /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/001278.log 
-2024/09/25-03:32:58.459 283d Level-0 table #1282: started
-2024/09/25-03:32:58.469 283d Level-0 table #1282: 61177 bytes OK
-2024/09/25-03:32:58.475 283d Delete type=0 #1278
-2024/09/25-03:32:58.475 283d Compacting 4@0 + 1@1 files
-2024/09/25-03:32:58.479 283d Generated table #1283@0: 72 keys, 45234 bytes
-2024/09/25-03:32:58.479 283d Compacted 4@0 + 1@1 files => 45234 bytes
-2024/09/25-03:32:58.484 283d compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/09/25-03:32:58.484 283d Delete type=2 #1272
-2024/09/25-03:32:58.484 283d Delete type=2 #1274
-2024/09/25-03:32:58.484 283d Delete type=2 #1277
-2024/09/25-03:32:58.484 283d Delete type=2 #1279
-2024/09/25-03:32:58.484 283d Delete type=2 #1282
-2024/09/25-03:37:31.974 283d Level-0 table #1285: started
-2024/09/25-03:37:31.979 283d Level-0 table #1285: 63635 bytes OK
-2024/09/25-03:37:31.984 283d Delete type=0 #1281
-2024/09/25-04:13:04.523 283d Level-0 table #1287: started
-2024/09/25-04:13:04.527 283d Level-0 table #1287: 52006 bytes OK
-2024/09/25-04:13:04.533 283d Delete type=0 #1284
+2024/09/28-00:51:56.226 4e9 Reusing MANIFEST /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/09/28-00:51:56.235 4e9 Recovering log #1299
+2024/09/28-00:51:56.236 4e9 Level-0 table #1302: started
+2024/09/28-00:51:56.239 4e9 Level-0 table #1302: 37928 bytes OK
+2024/09/28-00:51:56.245 4e9 Delete type=0 #1299
+2024/09/28-00:51:56.245 4ea Compacting 4@0 + 1@1 files
+2024/09/28-00:51:56.250 4ea Generated table #1304@0: 110 keys, 43350 bytes
+2024/09/28-00:51:56.250 4ea Compacted 4@0 + 1@1 files => 43350 bytes
+2024/09/28-00:51:56.255 4ea compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/28-00:51:56.256 4ea Delete type=2 #1293
+2024/09/28-00:51:56.256 4ea Delete type=2 #1295
+2024/09/28-00:51:56.256 4ea Delete type=2 #1298
+2024/09/28-00:51:56.256 4ea Delete type=2 #1300
+2024/09/28-00:51:56.256 4ea Delete type=2 #1302
