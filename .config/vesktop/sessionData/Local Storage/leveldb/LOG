@@ -1,6 +1,6 @@
-2024/09/28-00:53:44.800 738 Reusing MANIFEST /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
-2024/09/28-00:53:44.808 738 Recovering log #1303
-2024/09/28-00:53:44.809 738 Reusing old log /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/001303.log 
-2024/09/28-00:54:45.063 739 Level-0 table #1307: started
-2024/09/28-00:54:45.067 739 Level-0 table #1307: 56085 bytes OK
-2024/09/28-00:54:45.073 739 Delete type=0 #1303
+2024/10/02-08:44:46.010 9a0 Reusing MANIFEST /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/10/02-08:44:46.016 9a0 Recovering log #1318
+2024/10/02-08:44:46.019 9a0 Reusing old log /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/001318.log 
+2024/10/02-08:45:46.273 9a1 Level-0 table #1322: started
+2024/10/02-08:45:46.283 9a1 Level-0 table #1322: 41597 bytes OK
+2024/10/02-08:45:46.289 9a1 Delete type=0 #1318
