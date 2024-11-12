@@ -1,6 +1,24 @@
-2024/10/02-08:44:46.010 9a0 Reusing MANIFEST /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
-2024/10/02-08:44:46.016 9a0 Recovering log #1318
-2024/10/02-08:44:46.019 9a0 Reusing old log /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/001318.log 
-2024/10/02-08:45:46.273 9a1 Level-0 table #1322: started
-2024/10/02-08:45:46.283 9a1 Level-0 table #1322: 41597 bytes OK
-2024/10/02-08:45:46.289 9a1 Delete type=0 #1318
+2024/11/12-01:16:17.117 4c5 Reusing MANIFEST /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/11/12-01:16:17.124 4c5 Recovering log #1373
+2024/11/12-01:16:17.124 4c5 Reusing old log /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/001373.log 
+2024/11/12-01:17:19.919 4c6 Level-0 table #1377: started
+2024/11/12-01:17:19.924 4c6 Level-0 table #1377: 46447 bytes OK
+2024/11/12-01:17:19.929 4c6 Delete type=0 #1373
+2024/11/12-01:19:19.925 4c6 Level-0 table #1379: started
+2024/11/12-01:19:19.929 4c6 Level-0 table #1379: 70572 bytes OK
+2024/11/12-01:19:19.934 4c6 Delete type=0 #1376
+2024/11/12-01:28:19.919 4c6 Level-0 table #1381: started
+2024/11/12-01:28:19.932 4c6 Level-0 table #1381: 63682 bytes OK
+2024/11/12-01:28:19.939 4c6 Delete type=0 #1378
+2024/11/12-01:28:19.939 4c6 Compacting 4@0 + 1@1 files
+2024/11/12-01:28:19.944 4c6 Generated table #1382@0: 118 keys, 50208 bytes
+2024/11/12-01:28:19.944 4c6 Compacted 4@0 + 1@1 files => 50208 bytes
+2024/11/12-01:28:19.949 4c6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/12-01:28:19.950 4c6 Delete type=2 #1372
+2024/11/12-01:28:19.950 4c6 Delete type=2 #1374
+2024/11/12-01:28:19.950 4c6 Delete type=2 #1377
+2024/11/12-01:28:19.950 4c6 Delete type=2 #1379
+2024/11/12-01:28:19.950 4c6 Delete type=2 #1381
+2024/11/12-02:08:19.918 4c5 Level-0 table #1384: started
+2024/11/12-02:08:19.928 4c5 Level-0 table #1384: 34138 bytes OK
+2024/11/12-02:08:19.934 4c5 Delete type=0 #1380

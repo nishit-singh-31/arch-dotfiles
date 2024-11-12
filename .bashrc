@@ -68,4 +68,9 @@ export RANGER_LOAD_DEFAULT_RC=false
 alias nvconf='nvim ~/.config/nvim/init.lua'
 alias vim='nvim'
 
+# gaming
+export __GL_SHADER_DISK_CACHE=1 
+export __GL_SHADER_DISK_CACHE_SKIP_CLEANUP=1 
+export __GL_SHADER_DISK_CACHE_PATH='$HOME/.nv/GLCache'
+
 PS1='[\u@\h \W]\$ '
