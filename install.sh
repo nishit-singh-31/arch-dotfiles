@@ -1,0 +1,6 @@
+!#/bin/bash
+# Install script
+
+sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay-bin.git && cd yay-bin && makepkg -si && yay -S ninja gcc cmake meson libxcb xcb-proto xcb-util xcb-util-keysyms libxfixes libx11 libxcomposite libxrender pixman wayland-protocols cairo pango seatd libxkbcommon xcb-util-wm xorg-xwayland libinput libliftoff libdisplay-info cpio tomlplusplus hyprlang-git hyprcursor-git hyprwayland-scanner-git xcb-util-errors hyprutils-git hyprgraphics-git aquamarine audacity bashmount bitwarden bluez bluez-utils btop cliphist discord dmidecode dunst efibootmgr exfat-utils fastfetch feh gimp git github-cli grim gvfs iptables-nft kdenlive kitty less libreoffice-fresh mupdf neovim nftables noto-fonts-emoji ntfs-3g obsidian openrazer-daemon os-prober polychromatic pwvucontrol qbittorrent ranger rofi slurp stow syncthing thunar tofi ttf-fanwood ttf-font-awesome ttf-liberation unzip vlc waybar wayland-protocols wget wl-clipboard wqy-zenhei xdg-desktop-portal-hyprland zen-browser-bin zip && git clone --recursive https://github.com/hyprwm/Hyprland && cd Hyprland && make all && sudo make install
+# gaming for the pc && yay -S an-anime-game-launcher-bin gamemode goverlay heroic-games-launcher-bin  
+

@@ -20,6 +20,7 @@ alias vl-dn='pactl set-sink-volume @DEFAULT_SINK@ -10%'
 
 # bluetooth
 alias dc-xbox='bluetoothctl disconnect 0C:35:26:59:82:65'
+alias pair-xbox='bluetoothctl connect 0C:35:26:59:82:65'
 alias pair-major='bluetoothctl connect 1C:6E:4C:92:11:36'
 alias dc-major='bluetoothctl disconnect 1C:6E:4C:92:11:36'
 alias pair-kb='bluetoothctl connect F4:73:35:A8:9C:D3'
@@ -67,6 +68,7 @@ export EDITOR=nvim
 export RANGER_LOAD_DEFAULT_RC=false
 alias nvconf='nvim ~/.config/nvim/init.lua'
 alias vim='nvim'
+export MANPAGER='nvim +Man!'
 
 # gaming
 export __GL_SHADER_DISK_CACHE=1 

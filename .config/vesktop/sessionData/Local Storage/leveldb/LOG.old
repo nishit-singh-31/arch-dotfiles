@@ -1,18 +1,21 @@
-2024/11/09-22:48:15.516 4a23 Reusing MANIFEST /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
-2024/11/09-22:48:15.528 4a23 Recovering log #1367
-2024/11/09-22:48:15.528 4a23 Reusing old log /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/001367.log 
-2024/11/09-22:49:15.949 4a25 Level-0 table #1371: started
-2024/11/09-22:49:15.953 4a25 Level-0 table #1371: 62153 bytes OK
-2024/11/09-22:49:15.959 4a25 Delete type=0 #1367
-2024/11/09-22:49:15.959 4a25 Compacting 4@0 + 1@1 files
-2024/11/09-22:49:15.963 4a25 Generated table #1372@0: 118 keys, 50533 bytes
-2024/11/09-22:49:15.963 4a25 Compacted 4@0 + 1@1 files => 50533 bytes
-2024/11/09-22:49:15.968 4a25 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/11/09-22:49:15.968 4a25 Delete type=2 #1362
-2024/11/09-22:49:15.968 4a25 Delete type=2 #1364
-2024/11/09-22:49:15.969 4a25 Delete type=2 #1366
-2024/11/09-22:49:15.969 4a25 Delete type=2 #1368
-2024/11/09-22:49:15.969 4a25 Delete type=2 #1371
-2024/11/10-03:35:28.349 4a25 Level-0 table #1374: started
-2024/11/10-03:35:28.359 4a25 Level-0 table #1374: 49208 bytes OK
-2024/11/10-03:35:28.365 4a25 Delete type=0 #1370
+2024/12/06-22:57:19.973 5a0 Reusing MANIFEST /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/12/06-22:57:19.980 5a0 Recovering log #1571
+2024/12/06-22:57:19.981 5a0 Reusing old log /home/nishit/.config/vesktop/sessionData/Local Storage/leveldb/001571.log 
+2024/12/06-22:58:20.466 5a0 Level-0 table #1575: started
+2024/12/06-22:58:20.476 5a0 Level-0 table #1575: 39195 bytes OK
+2024/12/06-22:58:20.482 5a0 Delete type=0 #1571
+2024/12/06-23:28:58.070 5a0 Level-0 table #1577: started
+2024/12/06-23:28:58.080 5a0 Level-0 table #1577: 50380 bytes OK
+2024/12/06-23:28:58.086 5a0 Delete type=0 #1574
+2024/12/06-23:28:58.086 5a0 Compacting 4@0 + 1@1 files
+2024/12/06-23:28:58.091 5a0 Generated table #1578@0: 122 keys, 49198 bytes
+2024/12/06-23:28:58.091 5a0 Compacted 4@0 + 1@1 files => 49198 bytes
+2024/12/06-23:28:58.096 5a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/06-23:28:58.096 5a0 Delete type=2 #1567
+2024/12/06-23:28:58.096 5a0 Delete type=2 #1570
+2024/12/06-23:28:58.096 5a0 Delete type=2 #1572
+2024/12/06-23:28:58.096 5a0 Delete type=2 #1575
+2024/12/06-23:28:58.097 5a0 Delete type=2 #1577
+2024/12/06-23:53:57.346 5a0 Level-0 table #1580: started
+2024/12/06-23:53:57.357 5a0 Level-0 table #1580: 31400 bytes OK
+2024/12/06-23:53:57.362 5a0 Delete type=0 #1576
