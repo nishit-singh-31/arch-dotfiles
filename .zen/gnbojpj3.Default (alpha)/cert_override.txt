@@ -1,3 +1,0 @@
-# PSM Certificate Override Settings file
-# This is a generated file!  Do not edit.
-127.0.0.1:8384:	OID.2.16.840.1.101.3.4.2.1	79:F2:13:4A:7B:8D:5B:B4:38:6F:E9:50:04:FE:10:66:04:3B:46:D1:07:8A:7F:89:43:06:8B:FD:3D:48:BB:A0	
