@@ -57,7 +57,7 @@ after logging in the first thing to do is cloning this repo and running the inst
 ```
 git clone https://github.com/nishit-singh-31/arch-dotfiles.git
 mv arch-dotfiles .dotfiles\
-rm .bashrc
+rm .bashrc .bash_profile
 cd .dotfiles
 stow .
 sudo chmod +x .install.sh
