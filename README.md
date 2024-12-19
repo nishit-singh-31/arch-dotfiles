@@ -74,6 +74,14 @@ options nvidia_drm modeset=1 fbdev=1
 the final step is rebuilding the initramfs with ```sudo mkinitcpio -P``` and then rebooting.
 hyprland with most of the config files in their place is ready and now its time to setup everything else.
 
+# fstab and drives setup
+
+first create the dirs under ```/mnt/``` according to the name of the drives and then simply add the drives along with their UUID which can be found by running ```sudo blkid``` into the ```/etc/fstab``` file after the boot drive in the following format:
+```
+# /dev/*drive-sd* (*drive-name*)
+UUID= *enter id from blkid*    /mnt/*drive-directory*  ext4  defaults  0  0
+```
+
 # hoyo gacha hell configuration
 
 the most important thing is editing ```/etc/hosts``` to disable the telemetry servers:
