@@ -62,6 +62,7 @@ alias wm='cd ~/.config/hypr'
 alias bar='cd ~/.config/waybar'
 alias kittyconf='cd ~/.config/kitty'
 alias gtkconf='nvim ~/.config/gtk-3.0/settings.ini'
+alias pipes='pipes.sh -t9 -p 4'
 
 # nvim
 export EDITOR=nvim
