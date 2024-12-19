@@ -9,7 +9,7 @@
 # details
 
 | what | do i use |
-------|------|----- 
+|------|------|
 | os           | [arch](https://archlinux.org/)                                  |   
 | wm           | [hyprland](https://hyprland.org/)                               |
 | terminal     | [kitty](https://sw.kovidgoyal.net/kitty/)                       | 
