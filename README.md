@@ -60,6 +60,7 @@ mv arch-dotfiles .dotfiles\
 rm .bashrc .bash_profile
 cd .dotfiles
 stow .
+cd
 sudo chmod +x .install.sh
 ./.install.sh
 ```
